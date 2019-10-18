@@ -1,1 +1,6 @@
 relou uord
+
+minha branch
+
+checkout muda de branch - git branch nomebranche
+caso eu queira criar uma eu coloco -b antes de branch
